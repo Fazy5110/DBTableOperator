@@ -1,0 +1,2 @@
+# DBTableOperator
+DBのTableをOperationするWebアプリ（仮）
